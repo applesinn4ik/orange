@@ -1,0 +1,1 @@
+c:\users\apple\documents\visual studio 2013\Projects\LinkedListStack\LinkedListStack\bin\Debug\LinkedListStack.exe.config
